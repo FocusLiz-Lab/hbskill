@@ -1,0 +1,4 @@
+interface:
+  display_name: "hbs-ima"
+  short_description: "Huberman Lab IMA 检索入口"
+  default_prompt: "Use $hbs-ima to search and cite the Huberman Lab knowledge base."

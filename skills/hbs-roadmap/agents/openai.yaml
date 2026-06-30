@@ -1,0 +1,4 @@
+interface:
+  display_name: "hbs-roadmap"
+  short_description: "Huberman Lab 行动计划"
+  default_prompt: "Use $hbs-roadmap to build a 7/30/90-day implementation plan from Huberman Lab protocols."

@@ -1,0 +1,13 @@
+# Local source archives; do not publish raw materials.
+.work/
+book/
+youtube/
+X/
+X合并/
+
+# Generated packages
+skillhub-package/
+
+# OS / editor
+.DS_Store
+Thumbs.db

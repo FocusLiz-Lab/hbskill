@@ -1,0 +1,4 @@
+interface:
+  display_name: "hbs-research"
+  short_description: "Huberman Lab 研究整理简报"
+  default_prompt: "Use $hbs-research to synthesize a Huberman Lab topic with evidence boundaries."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "hbs"
+  short_description: "Huberman Lab 主入口与路由"
+  default_prompt: "Use $hbs to route a Huberman Lab question to the right workflow."

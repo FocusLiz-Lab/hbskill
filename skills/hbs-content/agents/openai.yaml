@@ -1,0 +1,4 @@
+interface:
+  display_name: "hbs-content"
+  short_description: "Huberman Lab 内容创作工作流"
+  default_prompt: "Use $hbs-content to create source-grounded educational content from Huberman Lab."

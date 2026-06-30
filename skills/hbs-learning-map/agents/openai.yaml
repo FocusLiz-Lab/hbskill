@@ -1,0 +1,4 @@
+interface:
+  display_name: "hbs-learning-map"
+  short_description: "Huberman Lab 系统学习地图"
+  default_prompt: "Use $hbs-learning-map to build a Huberman Lab learning path."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "hbs-protocol"
+  short_description: "Huberman Lab 协议与工具卡"
+  default_prompt: "Use $hbs-protocol to turn Huberman Lab material into a practical protocol card."
