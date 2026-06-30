@@ -1,7 +1,7 @@
 ---
 name: hbs
 description: |
-  Huberman Lab podcast interview and science-based health workflow router with default IMA knowledge-base grounding. Use when the user asks about Huberman Lab, Andrew Huberman, neuroscience, sleep, circadian rhythm, focus, dopamine, stress, mental health, exercise, recovery, nutrition, supplements, hormones, protocols, episode search, interview takeaways, learning paths, content ideas, research synthesis, or habit/health roadmaps. By default, use the IMA knowledge base named "Huberman Lab 知识库". Triggers include $hbs, /hbs, Huberman, Huberman Lab, Andrew Huberman, 神经科学, 睡眠, 专注, 多巴胺, 压力, 补剂, 训练, 协议, 学习地图, 播客访谈, and 健康计划.
+  Huberman Lab podcast interview and science-based health workflow router with default IMA knowledge-base grounding. Use when the user asks about Huberman Lab, Andrew Huberman, neuroscience, sleep, circadian rhythm, focus, dopamine, stress, mental health, exercise, recovery, nutrition, supplements, hormones, protocols, episode search, interview takeaways, learning paths, content ideas, research synthesis, or habit/health roadmaps. By default, use the IMA knowledge base named "Huberman知识库｜科学改善生活（持续更新）". Triggers include $hbs, /hbs, Huberman, Huberman Lab, Andrew Huberman, 神经科学, 睡眠, 专注, 多巴胺, 压力, 补剂, 训练, 协议, 学习地图, 播客访谈, and 健康计划.
 ---
 
 # hbs
@@ -13,7 +13,7 @@ Act as the main router for the Huberman Lab skill toolbox. Identify the user's i
 All workflow skills default to:
 
 ```text
-Huberman Lab 知识库
+Huberman知识库｜科学改善生活（持续更新）
 ```
 
 Users do not need to mention this knowledge-base name. If they explicitly name another IMA knowledge base, use that name instead.

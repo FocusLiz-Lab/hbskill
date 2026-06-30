@@ -1,7 +1,7 @@
 ---
 name: hbs-content
 description: |
-  Create Huberman Lab grounded content workflows with default IMA knowledge-base retrieval. Use when the user invokes $hbs-content or asks for episode summaries, interview takeaways, short-video scripts, article outlines, newsletter issues, X/Twitter threads, hooks, topic calendars, educational posts, or content repurposing based on the Huberman Lab 知识库.
+  Create Huberman Lab grounded content workflows with default IMA knowledge-base retrieval. Use when the user invokes $hbs-content or asks for episode summaries, interview takeaways, short-video scripts, article outlines, newsletter issues, X/Twitter threads, hooks, topic calendars, educational posts, or content repurposing based on the Huberman知识库｜科学改善生活（持续更新）.
 ---
 
 # hbs-content
@@ -11,7 +11,7 @@ Turn Huberman Lab materials into educational content without copying source text
 ## Default IMA Knowledge Base
 
 ```text
-Huberman Lab 知识库
+Huberman知识库｜科学改善生活（持续更新）
 ```
 
 ## Workflow

@@ -1,7 +1,7 @@
 ---
 name: hbs-ima
 description: |
-  Compatibility entry for IMA retrieval with Huberman Lab workflows. Use when the user explicitly invokes $hbs-ima or asks to search, read, cite, quote-check, summarize, or troubleshoot Huberman Lab podcast, interview, X/Twitter, booklist, protocol, neuroscience, health, supplement, sleep, focus, exercise, or research materials from IMA. This skill uses the default IMA knowledge base named "Huberman Lab 知识库".
+  Compatibility entry for IMA retrieval with Huberman Lab workflows. Use when the user explicitly invokes $hbs-ima or asks to search, read, cite, quote-check, summarize, or troubleshoot Huberman Lab podcast, interview, X/Twitter, booklist, protocol, neuroscience, health, supplement, sleep, focus, exercise, or research materials from IMA. This skill uses the default IMA knowledge base named "Huberman知识库｜科学改善生活（持续更新）".
 ---
 
 # hbs-ima
@@ -11,7 +11,7 @@ Use this skill as a thin compatibility entry for users who explicitly ask for IM
 Default IMA knowledge base:
 
 ```text
-Huberman Lab 知识库
+Huberman知识库｜科学改善生活（持续更新）
 ```
 
 For the actual workflow, follow `$hbs`:

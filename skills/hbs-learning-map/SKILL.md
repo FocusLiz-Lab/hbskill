@@ -1,7 +1,7 @@
 ---
 name: hbs-learning-map
 description: |
-  Build Huberman Lab learning maps with default IMA knowledge-base retrieval. Use when the user invokes $hbs-learning-map or asks what to study first, how to learn Huberman Lab systematically, which episodes/topics to prioritize, how to build a neuroscience, sleep, focus, stress, exercise, nutrition, supplement, or mental health learning path, or how to navigate the Huberman Lab 知识库.
+  Build Huberman Lab learning maps with default IMA knowledge-base retrieval. Use when the user invokes $hbs-learning-map or asks what to study first, how to learn Huberman Lab systematically, which episodes/topics to prioritize, how to build a neuroscience, sleep, focus, stress, exercise, nutrition, supplement, or mental health learning path, or how to navigate the Huberman知识库｜科学改善生活（持续更新）.
 ---
 
 # hbs-learning-map
@@ -11,7 +11,7 @@ Design a learning path through Huberman Lab materials. Ground substantive claims
 ## Default IMA Knowledge Base
 
 ```text
-Huberman Lab 知识库
+Huberman知识库｜科学改善生活（持续更新）
 ```
 
 ## Workflow

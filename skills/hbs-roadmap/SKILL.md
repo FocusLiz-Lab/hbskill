@@ -1,7 +1,7 @@
 ---
 name: hbs-roadmap
 description: |
-  Build 7/30/90-day implementation roadmaps from Huberman Lab materials with default IMA knowledge-base retrieval. Use when the user invokes $hbs-roadmap or asks to turn Huberman Lab protocols into a personal plan, habit stack, self-experiment, project roadmap, review loop, behavior-change plan, or practical health/performance system using the Huberman Lab 知识库.
+  Build 7/30/90-day implementation roadmaps from Huberman Lab materials with default IMA knowledge-base retrieval. Use when the user invokes $hbs-roadmap or asks to turn Huberman Lab protocols into a personal plan, habit stack, self-experiment, project roadmap, review loop, behavior-change plan, or practical health/performance system using the Huberman知识库｜科学改善生活（持续更新）.
 ---
 
 # hbs-roadmap
@@ -11,7 +11,7 @@ Turn Huberman Lab concepts into a structured implementation plan while respectin
 ## Default IMA Knowledge Base
 
 ```text
-Huberman Lab 知识库
+Huberman知识库｜科学改善生活（持续更新）
 ```
 
 ## Workflow

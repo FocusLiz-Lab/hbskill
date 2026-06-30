@@ -1,7 +1,7 @@
 ---
 name: hbs-research
 description: |
-  Research and synthesize Huberman Lab topics with default IMA knowledge-base retrieval. Use when the user invokes $hbs-research or asks to compare episodes, summarize interviews, analyze evidence, map mechanisms, inspect claims, find citations, compare protocols, or produce a source-grounded briefing on neuroscience, sleep, stress, focus, nutrition, supplements, exercise, hormones, psychology, or health topics from the Huberman Lab 知识库.
+  Research and synthesize Huberman Lab topics with default IMA knowledge-base retrieval. Use when the user invokes $hbs-research or asks to compare episodes, summarize interviews, analyze evidence, map mechanisms, inspect claims, find citations, compare protocols, or produce a source-grounded briefing on neuroscience, sleep, stress, focus, nutrition, supplements, exercise, hormones, psychology, or health topics from the Huberman知识库｜科学改善生活（持续更新）.
 ---
 
 # hbs-research
@@ -11,7 +11,7 @@ Produce source-grounded research briefs from Huberman Lab materials.
 ## Default IMA Knowledge Base
 
 ```text
-Huberman Lab 知识库
+Huberman知识库｜科学改善生活（持续更新）
 ```
 
 ## Workflow

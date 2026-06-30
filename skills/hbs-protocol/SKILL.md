@@ -1,7 +1,7 @@
 ---
 name: hbs-protocol
 description: |
-  Extract and adapt Huberman Lab protocols with default IMA knowledge-base retrieval. Use when the user invokes $hbs-protocol or asks for practical science-based tools, routines, daily protocols, habit design, self-experiments, or checklists for sleep, circadian rhythm, morning sunlight, focus, dopamine, stress, breathing, exercise, recovery, nutrition, supplements, hormones, learning, motivation, or mental health from the Huberman Lab 知识库.
+  Extract and adapt Huberman Lab protocols with default IMA knowledge-base retrieval. Use when the user invokes $hbs-protocol or asks for practical science-based tools, routines, daily protocols, habit design, self-experiments, or checklists for sleep, circadian rhythm, morning sunlight, focus, dopamine, stress, breathing, exercise, recovery, nutrition, supplements, hormones, learning, motivation, or mental health from the Huberman知识库｜科学改善生活（持续更新）.
 ---
 
 # hbs-protocol
@@ -11,7 +11,7 @@ Create practical protocol cards from Huberman Lab materials. Ground claims in IM
 ## Default IMA Knowledge Base
 
 ```text
-Huberman Lab 知识库
+Huberman知识库｜科学改善生活（持续更新）
 ```
 
 ## Workflow

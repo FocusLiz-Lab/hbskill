@@ -1,6 +1,6 @@
 # Huberman Lab Archive Map
 
-Default IMA knowledge base: `Huberman Lab 知识库`
+Default IMA knowledge base: `Huberman知识库｜科学改善生活（持续更新）`
 
 Use this map to choose IMA search terms. This file is an index only; do not treat it as source evidence.
 
