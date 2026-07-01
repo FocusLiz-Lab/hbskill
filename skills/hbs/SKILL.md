@@ -1,33 +1,33 @@
 ---
 name: hbs
 description: |
-  Huberman Lab podcast interview and science-based health workflow router with default IMA knowledge-base grounding. Use when the user asks about Huberman Lab, Andrew Huberman, neuroscience, sleep, circadian rhythm, focus, dopamine, stress, mental health, exercise, recovery, nutrition, supplements, hormones, protocols, episode search, interview takeaways, learning paths, content ideas, research synthesis, or habit/health roadmaps. By default, use the IMA knowledge base named "Huberman知识库｜科学改善生活（持续更新）". Triggers include $hbs, /hbs, Huberman, Huberman Lab, Andrew Huberman, 神经科学, 睡眠, 专注, 多巴胺, 压力, 补剂, 训练, 协议, 学习地图, 播客访谈, and 健康计划.
+  Huberman Lab 科学健康 Skill 工具箱主入口。用于神经科学、睡眠、昼夜节律、专注、多巴胺、压力、心理健康、训练、恢复、营养、补剂、激素、健康协议、播客检索、访谈要点、学习路径、内容选题、研究综合和健康行动计划。默认使用 IMA 知识库「Huberman知识库｜科学改善生活（持续更新）」，并可在 IMA 不可用时读取本地原子库。触发词包括 $hbs、/hbs、Huberman、Andrew Huberman、神经科学、睡眠、专注、多巴胺、压力、补剂、训练、协议、学习地图、播客访谈和健康计划。
 ---
 
-# hbs
+# hbs Huberman 科学健康工具箱
 
-Act as the main router for the Huberman Lab skill toolbox. Identify the user's intent and route to the most relevant workflow skill. If enough context exists, execute the routed workflow in the same answer.
+这是 Huberman Lab 科学健康工具箱的主入口。先判断用户意图，再路由到最相关的 workflow skill；如果上下文足够，直接在同一回答中完成对应工作流。
 
-## Default IMA Knowledge Base
+## 默认 IMA 知识库
 
-All workflow skills default to:
+所有 workflow skills 默认读取：
 
 ```text
 Huberman知识库｜科学改善生活（持续更新）
 ```
 
-Users do not need to mention this knowledge-base name. If they explicitly name another IMA knowledge base, use that name instead.
+用户不需要每次输入这个知识库名称。如果用户明确指定其他 IMA 知识库，则优先使用用户指定的知识库。
 
-## Required Dependency
+## 必要依赖
 
-All source-grounded workflows use `ima-skill` for retrieval:
+所有需要资料依据的 workflow 都使用 `ima-skill` 做检索：
 
 - `ima-skill/SKILL.md`
 - `ima-skill/knowledge-base/SKILL.md`
 
-Do not invent IMA APIs. Do not expose IMA internal IDs to the user.
+不要臆造 IMA API。不要向用户暴露 IMA 内部 ID。
 
-If `ima-skill` is not installed or credentials are missing, tell the user to install/configure IMA first:
+如果没有安装 `ima-skill` 或凭证缺失，先提示用户安装并配置 IMA：
 
 ```text
 请安装 ima 技能
@@ -35,7 +35,7 @@ If `ima-skill` is not installed or credentials are missing, tell the user to ins
 API Key 获取：https://ima.qq.com/agent-interface
 ```
 
-## Route Map
+## 路由表
 
 | User intent | Route to | Use when |
 |---|---|---|
