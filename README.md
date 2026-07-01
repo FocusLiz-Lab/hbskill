@@ -141,6 +141,29 @@ $hbs-roadmap 我想用 30 天改善睡眠和专注，帮我做行动计划。
 
 ---
 
+## SkillHub 轻量包与全量原子库
+
+SkillHub 单个上传包限制小于 10MB，因此 SkillHub 压缩包是轻量包，不直接内置完整 `atoms.jsonl`。安装后如果需要本地离线兜底检索，调用：
+
+```text
+$hbs-download-atoms
+```
+
+或在 hbskill 安装目录中运行：
+
+```powershell
+python tools/download_full_atoms.py
+```
+
+它会自动从 GitHub 下载并安装完整原子库到：
+
+```text
+知识库/原子库/atoms.jsonl
+知识库/原子库/atoms_*.jsonl
+```
+
+如果需要手动下载，也可以在 GitHub Release 中下载 `hbs-local.zip`，它包含完整本地原子库。
+
 ## 知识库 / 原子库
 
 本仓库包含一个发布安全的抽象原子库：
