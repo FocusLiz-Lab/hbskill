@@ -1,0 +1,4 @@
+interface:
+  display_name: "Huberman Lab 更新"
+  short_description: "Update suite skills and atom libraries safely"
+  default_prompt: "Use $hbs-update to update the suite and its atom libraries from GitHub."
