@@ -1,7 +1,7 @@
 {
   "updated_on": "2026-10-29",
   "before": 31716,
-  "after": 32121,
+  "after": 32491,
   "added": 405,
   "local_source_groups": 454,
   "added_source_groups": 35,
@@ -12,8 +12,8 @@
   "files": [
     {
       "file": "atoms.jsonl",
-      "bytes": 37964116,
-      "sha256": "6a0f4d649310f91a46e7639a69de9987cae59e5f5edd92f38780033b91603f0f"
+      "bytes": 38453807,
+      "sha256": "03cb37b9a9a27e3f9d53741da6950cf3ab11bfaacda6da5ffff27aa2676d900d"
     },
     {
       "file": "atoms_2020Q4.jsonl",
@@ -87,8 +87,8 @@
     },
     {
       "file": "atoms_2024Q2.jsonl",
-      "bytes": 1340985,
-      "sha256": "766896f3dd376180d0e89cbc60c47e3532ae1d3347ca102d2a08a617bb915583"
+      "bytes": 1341831,
+      "sha256": "761042f03383bd5f5146b3e4dda33037e116430b15888914ce5f2ce16b73b0dc"
     },
     {
       "file": "atoms_2024Q3.jsonl",
@@ -127,18 +127,18 @@
     },
     {
       "file": "atoms_2026Q2.jsonl",
-      "bytes": 2012982,
-      "sha256": "82f94a32ced69d0f4b6c2bc5332605a15d79268897cf9d12461190c2ea8dcfe5"
+      "bytes": 2067052,
+      "sha256": "ba07cb087252bf28eefe05a4dc65b1e698f5b35bf57eae4ce6e7708af9dae4e4"
     },
     {
       "file": "atoms_2026Q3.jsonl",
-      "bytes": 478374,
-      "sha256": "a6b609ade637dd8dd9455f5c6cdfca23afa7a9967f4999b27561abaa37667b14"
+      "bytes": 478681,
+      "sha256": "f639c53576667bd8ce6bdc834f51b2ed8950c185ba14e628d6e1b3fce83d924a"
     },
     {
       "file": "atoms_2026Q4.jsonl",
-      "bytes": 114987,
-      "sha256": "dd3f3f6243f0b534a40d3fd203fe042a4d243dc2be3f6ae76564c9af6060ffd5"
+      "bytes": 520359,
+      "sha256": "031909a2ec54cf79e6729f2eff41cb3a8fc8b10b5b690e3d94aa40fc548a80a1"
     }
   ],
   "sources": [

@@ -1,0 +1,50 @@
+{
+  "extraction": "ckw-collected-semantic-v1",
+  "sources": {
+    "https://www.youtube.com/watch?v=NlVu0P1RdHs": {
+      "source_path": "youtube_transcript/视频转录01 睡眠节律与日常能量/261026 解锁持久动力与极致韧性 - Ross Edgley.md",
+      "sha256": "c1e46d8a10b0a398027f146c5c67666e5d512e25d14830576a20de1aa9908f7e",
+      "atoms": 79
+    },
+    "https://www.youtube.com/watch?v=arMMF0ISRRM": {
+      "source_path": "youtube_transcript/视频转录01 睡眠节律与日常能量/261029 必看：气味如何影响我们的激素、健康与行为 - 诺姆·索贝尔博士.md",
+      "sha256": "3b88d87005e3b7a71b0f038c9e7173cea7ac32a42cafafc9b101b20cbdfa2e7c",
+      "atoms": 4
+    },
+    "https://www.youtube.com/watch?v=yUdg7drjrZY": {
+      "source_path": "youtube_transcript/视频转录01 睡眠节律与日常能量/261105 基础必修：冷热暴露与代谢健康 - Susanna Søberg 博士.md",
+      "sha256": "c3fe23a74a7435627a15819dd3c7a4eabd2704428f02eb76f4800a127b0fedfb",
+      "atoms": 11
+    },
+    "https://www.youtube.com/watch?v=7mEK5wZHpto": {
+      "source_path": "youtube_transcript/视频转录01 睡眠节律与日常能量/261116 蘑菇与心智及免疫系统健康 - 保罗·史塔梅茨（Paul Stamets）.md",
+      "sha256": "bb901c5dc6543cbd73a029777ed9d6831a2345b50909607e043feba7c93a18b5",
+      "atoms": 56
+    },
+    "https://www.youtube.com/watch?v=8YHTMsy0bT8": {
+      "source_path": "youtube_transcript/视频转录01 睡眠节律与日常能量/261119 精华解读：尼古丁对大脑和身体的影响，以及如何戒烟或戒电子烟.md",
+      "sha256": "6b88de397f3df4d18be5b275689d7702db6ea12eb9fda1a3f0216ca1fd1ea607",
+      "atoms": 11
+    },
+    "https://www.youtube.com/watch?v=wbJ_Q1xsDHg": {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/261109 戒掉各种成瘾与执念 - 安娜·莱姆布博士.md",
+      "sha256": "c774fbd49a39130b55bcdaf78f2675232d92b761809488df53d2dc969984359b",
+      "atoms": 82
+    },
+    "https://www.youtube.com/watch?v=-e9ErUozQo4": {
+      "source_path": "youtube_transcript/视频转录06 身体调控与长期健康/260531 现场活动问答：安德鲁·休伯曼博士在布里斯班会展中心.md",
+      "sha256": "8af7fae1527067e90dfe6bbc66b3b7753a9f2ef75f742657d73d7e8e75b57c22",
+      "atoms": 43
+    },
+    "https://www.youtube.com/watch?v=y-fRFiTrrg4": {
+      "source_path": "youtube_transcript/视频转录07 关系沟通与人生策略/261102 抵达崇高之境，活出人生最佳状态 - 罗伯特·格林.md",
+      "sha256": "d55770bb717b1dc4642d8ca8eae6e8c183d3023862fae99d89a75ed484c170fb",
+      "atoms": 60
+    },
+    "https://www.youtube.com/watch?v=1rn_Clc-MM0": {
+      "source_path": "youtube_transcript/视频转录07 关系沟通与人生策略/261112 核心要点：情绪与社交因素如何影响学习｜玛丽·海伦·伊莫尔迪诺-杨博士.md",
+      "sha256": "0c15555b75840aa7c944da5f16161bddac9d17e3aa9dec7955064bcd82cf7c1f",
+      "atoms": 24
+    }
+  }
+}
